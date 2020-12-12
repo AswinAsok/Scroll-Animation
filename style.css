@@ -28,6 +28,10 @@ a {
   font-family: inherit
 }
 
+h2{
+  text-decoration: underline;
+}
+
 
 .box {
   background-color: steelblue;
